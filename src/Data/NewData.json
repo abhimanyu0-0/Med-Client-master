@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "category": "Psychedelics",
+      "drug": "Ativan 2mg",
+      "description": "Anti-anxiety Medication ",
+      "price": "$12",
+      "available": "50",
+      "image": "https://t4.ftcdn.net/jpg/02/57/02/39/360_F_257023906_UumIgLi6ECSyIGuWVNpuHLYPc3jZuiaE.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Psychedelics",
+      "drug": "XANAX 5mg",
+      "description": "Anti-anxiety Medication ",
+      "price": "$12",
+      "available": "50",
+      "image": "https://t4.ftcdn.net/jpg/02/57/02/39/360_F_257023906_UumIgLi6ECSyIGuWVNpuHLYPc3jZuiaE.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Psychedelics",
+        "drug": "Ativan 2mg",
+        "description": "Anti-anxiety Medication ",
+        "price": "$12",
+        "available": "50",
+        "image": "https://t4.ftcdn.net/jpg/02/57/02/39/360_F_257023906_UumIgLi6ECSyIGuWVNpuHLYPc3jZuiaE.jpg"
+      },
+      {
+        "id": 4,
+        "category": "Psychedelics",
+        "drug": "Ativan 2mg",
+        "description": "Anti-anxiety Medication ",
+        "price": "$12",
+        "available": "50",
+        "image": "https://t4.ftcdn.net/jpg/02/57/02/39/360_F_257023906_UumIgLi6ECSyIGuWVNpuHLYPc3jZuiaE.jpg"
+      },
+      {
+        "id": 5,
+        "category": "Psychedelics",
+        "drug": "Ativan 2mg",
+        "description": "Anti-anxiety Medication ",
+        "price": "$12",
+        "available": "50",
+        "image": "https://t4.ftcdn.net/jpg/02/57/02/39/360_F_257023906_UumIgLi6ECSyIGuWVNpuHLYPc3jZuiaE.jpg"
+      }
+  
+  ]
+  

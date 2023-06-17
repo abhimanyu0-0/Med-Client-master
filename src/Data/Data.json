@@ -1,0 +1,268 @@
+[
+  {
+    
+    "category": "Psychedelics",
+    "title": "Volcano Mushrooms",
+    "description": "Drugs for pain relief",
+    "price": 12,
+    "available": 50,
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Psychedelics",
+    "title": "Volcano Mushrooms1",
+    "description": "Drugs for pain relief",
+    "price": "12",
+    "available": "50",
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    "category": "Psychedelics",
+    "title": "Volcano Mushrooms2",
+    "description": "Drugs for pain relief",
+    "price": "12",
+    "available":"50",
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    "category": "Psychedelics",
+    "title": "Volcano Mushrooms3",
+    "description": "Drugs for pain relief",
+    "price": "12",
+    "available":"50",
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    "category": "Psychedelics",
+    "title": "Volcano Mushrooms4",
+    "description": "Drugs for pain relief",
+    "price": "12",
+    "available":"50",
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    "category": "Opioids",
+    "title": "Vicodin",
+    "description": "Drugs for pain relief",
+    "price": "5",
+    "available":"50",
+    "image": "https://images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  
+  {
+    "category": "Opioids",
+    "title": "Vicodin1",
+    "description": "Drugs for pain relief",
+    "price": "5",
+    "availabl":"50",
+    "image": "https://images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  
+  {
+    "category": "Opioids",
+    "title": "Vicodin2",
+    "description": "Drugs for pain relief",
+    "price": "5",
+    "available":"50",
+    "image": "htts:/images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  
+  {
+    "category": "Opioids",
+    "title": "Vicodin3",
+    "description": "Drugs for pain relief",
+    "price": "5",
+    "available":"50",
+    "image": "htts:/images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    
+    "category": "Opioids",
+    "title": "Vicodin4",
+    "description": "Drugs for pain relief",
+    "price": 5,
+    "available": 50,
+    "image": "https://images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    
+    "category": "Cannabinoids",
+    "title": "CBD Oil",
+    "description": "A type of chemical in marijuana that causes drug-like effects all through the body, including the central nervous system and the immune system.",
+    "price": 9,
+    "available": 50,
+    "image": "https://static.toiimg.com/photo/78293267.cms"
+  },
+  {
+    
+    "category": "Cannabinoids",
+    "title": "CBD Oil1",
+    "description": "A type of chemical in marijuana that causes drug-like effects all through the body, including the central nervous system and the immune system.",
+    "price": 9,
+    "available": 50,
+    "image": "https://static.toiimg.com/photo/78293267.cms"
+  },
+  {
+    
+    "category": "Cannabinoids",
+    "title": "CBD Oil2",
+    "description": "A type of chemical in marijuana that causes drug-like effects all through the body, including the central nervous system and the immune system.",
+    "price": 9,
+    "available": 50,
+    "image": "https://static.toiimg.com/photo/78293267.cms"
+  },
+  {
+    
+    "category": "Cannabinoids",
+    "title": "CBD Oil3",
+    "description": "A type of chemical in marijuana that causes drug-like effects all through the body, including the central nervous system and the immune system.",
+    "price": 9,
+    "available": 50,
+    "image": "https://static.toiimg.com/photo/78293267.cms"
+  },
+  {
+    
+    "category": "Cannabinoids",
+    "title": "CBD Oil4",
+    "description": "A type of chemical in marijuana that causes drug-like effects all through the body, including the central nervous system and the immune system.",
+    "price": 9,
+    "available": 50,
+    "image": "https://static.toiimg.com/photo/78293267.cms"
+  },
+  {
+    
+    "category": "Research Chemical",
+    "drug": "5-MEO-DMT POWDER",
+    "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes.",
+    "price": 50,
+    "available": 50,
+    "image": "https://img1.exportersindia.com/product_images/bc-full/2019/6/5245960/rare-research-chemicals-1561113604-4964386.jpeg"
+  },
+  {
+    
+    "category": "Research Chemical",
+    "title": "5-MEO-DMT POWDER1",
+    "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes.",
+    "price": 50,
+    "available": 50,
+    "image": "https://img1.exportersindia.com/product_images/bc-full/2019/6/5245960/rare-research-chemicals-1561113604-4964386.jpeg"
+  },
+  {
+    
+    "category": "Research Chemical",
+    "title": "5-MEO-DMT POWDER2",
+    "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes.",
+    "price": 50,
+    "available": 50,
+    "image": "https://img1.exportersindia.com/product_images/bc-full/2019/6/5245960/rare-research-chemicals-1561113604-4964386.jpeg"
+  },
+  {
+    
+    "category": "Research Chemical",
+    "title": "5-MEO-DMT POWDER3",
+    "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes.",
+    "price": 50,
+    "available": 50,
+    "image": "https://img1.exportersindia.com/product_images/bc-full/2019/6/5245960/rare-research-chemicals-1561113604-4964386.jpeg"
+  },
+  {
+    
+    "category": "Research Chemical",
+    "title": "5-MEO-DMT POWDER4",
+    "description": "Research chemicals are chemical substances used by scientists for medical and scientific research purposes.",
+    "price": 50,
+    "available": 50,
+    "image": "https://img1.exportersindia.com/product_images/bc-full/2019/6/5245960/rare-research-chemicals-1561113604-4964386.jpeg"
+  },
+  {
+    
+    "category": "Weight Loss",
+    "title": "Phentermine",
+    "description": "Weight Loss Pills",
+    "price": 70,
+    "available": 50,
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Weight Loss",
+    "title": "Phentermine1",
+    "description": "Weight Loss Pills",
+    "price": 70,
+    "available": 50,
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Weight Loss",
+    "title": "Phentermine2",
+    "description": "Weight Loss Pills",
+    "price": 70,
+    "available": 50,
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Weight Loss",
+    "title": "Phentermine3",
+    "description": "Weight Loss Pills",
+    "price": 70,
+    "available":50,
+     "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Weight Loss",
+    "title": "Phentermine4",
+    "description": "Weight Loss Pills",
+    "price": 70,
+    "available": 50,
+    "image": "https://hips.hearstapps.com/vidthumb/images/gettyimages-1392913510-6410b76f57a4f.jpg?crop=1.00xw:0.846xh;0,0.0433xh"
+  },
+  {
+    
+    "category": "Gummies and Chocolates",
+    "title": "Chocolate Edibles",
+    "description": "A cannabis edible, also known as a cannabis-infused food or simply an edible, is a food item that contains decarboxylated cannabinoids",
+    "price": 12,
+    "available": 40,
+    "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/eating-weed-1296x728-feature.jpg"
+  },
+  {
+    
+    "category": "Gummies and Chocolates",
+    "title": "Chocolate Edibles1",
+    "description": "A cannabis edible, also known as a cannabis-infused food or simply an edible, is a food item that contains decarboxylated cannabinoids",
+    "price": 12,
+    "available": 40,
+    "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/eating-weed-1296x728-feature.jpg"
+  },
+  {
+    
+    "category": "Gummies and Chocolates",
+    "title": "Chocolate Edibles2",
+    "description": "A cannabis edible, also known as a cannabis-infused food or simply an edible, is a food item that contains decarboxylated cannabinoids",
+    "price": 12,
+    "available": 40,
+    "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/eating-weed-1296x728-feature.jpg"
+  },
+  {
+    
+    "category": "Gummies and Chocolates",
+    "title": "Chocolate Edibles3",
+    "description": "A cannabis edible, also known as a cannabis-infused food or simply an edible, is a food item that contains decarboxylated cannabinoids",
+    "price": 12,
+    "available": 40,
+    "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/eating-weed-1296x728-feature.jpg"
+  },
+  {
+    
+    "category": "Gummies and Chocolates",
+    "title": "Chocolate Edibles4",
+    "description": "A cannabis edible, also known as a cannabis-infused food or simply an edible, is a food item that contains decarboxylated cannabinoids",
+    "price": 12,
+    "available": 40,
+    "image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/eating-weed-1296x728-feature.jpg"
+  }
+]
